@@ -1,0 +1,2 @@
+[Sun Feb 22 13:57:00 2026] [error] [client 104.28.244.74:0] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/usr/share/php') in /home/v/v923739b/v923739b_test/public_html/zadanie14.php on line 7
+[Sun Feb 22 13:57:08 2026] [error] [client 104.28.244.74:0] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/usr/share/php') in /home/v/v923739b/v923739b_test/public_html/report_tasks.php on line 5
